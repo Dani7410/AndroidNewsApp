@@ -1,5 +1,5 @@
 # AndroidNewsApp
-Android news app challenge
+Android news app from online courses
 
 1# Pull the project from version control in Android studio 
 
